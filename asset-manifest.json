@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Clinique.github.io/static/css/main.662a7aef.css",
-    "main.js": "/Clinique.github.io/static/js/main.da7dee8e.js",
+    "main.js": "/Clinique.github.io/static/js/main.3c015306.js",
     "static/js/498.ca6f2fe0.chunk.js": "/Clinique.github.io/static/js/498.ca6f2fe0.chunk.js",
     "static/js/703.990bb0b6.chunk.js": "/Clinique.github.io/static/js/703.990bb0b6.chunk.js",
     "static/js/198.2ad82db1.chunk.js": "/Clinique.github.io/static/js/198.2ad82db1.chunk.js",
@@ -22,13 +22,13 @@
     "static/media/lablogo.png": "/Clinique.github.io/static/media/lablogo.bacc7b157c7e81a9c37d.png",
     "index.html": "/Clinique.github.io/index.html",
     "main.662a7aef.css.map": "/Clinique.github.io/static/css/main.662a7aef.css.map",
-    "main.da7dee8e.js.map": "/Clinique.github.io/static/js/main.da7dee8e.js.map",
+    "main.3c015306.js.map": "/Clinique.github.io/static/js/main.3c015306.js.map",
     "498.ca6f2fe0.chunk.js.map": "/Clinique.github.io/static/js/498.ca6f2fe0.chunk.js.map",
     "703.990bb0b6.chunk.js.map": "/Clinique.github.io/static/js/703.990bb0b6.chunk.js.map",
     "198.2ad82db1.chunk.js.map": "/Clinique.github.io/static/js/198.2ad82db1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.662a7aef.css",
-    "static/js/main.da7dee8e.js"
+    "static/js/main.3c015306.js"
   ]
 }
