@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Clinique.github.io/static/css/main.662a7aef.css",
-    "main.js": "/Clinique.github.io/static/js/main.3c015306.js",
-    "static/js/498.ca6f2fe0.chunk.js": "/Clinique.github.io/static/js/498.ca6f2fe0.chunk.js",
-    "static/js/703.990bb0b6.chunk.js": "/Clinique.github.io/static/js/703.990bb0b6.chunk.js",
-    "static/js/198.2ad82db1.chunk.js": "/Clinique.github.io/static/js/198.2ad82db1.chunk.js",
+    "main.css": "/Clinique.github.io/static/css/main.f2de8f9e.css",
+    "main.js": "/Clinique.github.io/static/js/main.dcbe8c65.js",
+    "static/js/52.9111e1e7.chunk.js": "/Clinique.github.io/static/js/52.9111e1e7.chunk.js",
+    "static/js/760.954ef539.chunk.js": "/Clinique.github.io/static/js/760.954ef539.chunk.js",
+    "static/js/239.a2876915.chunk.js": "/Clinique.github.io/static/js/239.a2876915.chunk.js",
     "static/media/LangkahSatu.png": "/Clinique.github.io/static/media/LangkahSatu.e1bcb5adbd377353462b.png",
     "static/media/LangkahTiga.png": "/Clinique.github.io/static/media/LangkahTiga.46bd87e2831667a0b289.png",
     "static/media/LangkahDua.png": "/Clinique.github.io/static/media/LangkahDua.f50dca900fc23d3b6cbf.png",
@@ -12,7 +12,6 @@
     "static/media/firstmedika.png": "/Clinique.github.io/static/media/firstmedika.85f3d3acc4d277a24c8a.png",
     "static/media/doctors.png": "/Clinique.github.io/static/media/doctors.222750154ee532c332c4.png",
     "static/media/bgd.jpg": "/Clinique.github.io/static/media/bgd.0fc41085417bd6243042.jpg",
-    "static/media/successLogo.png": "/Clinique.github.io/static/media/successLogo.e27b16d9fdca8aa5d76d.png",
     "static/media/logo.png": "/Clinique.github.io/static/media/logo.b6d40bea64d00eb7d9a0.png",
     "static/media/ibuanaklogo.png": "/Clinique.github.io/static/media/ibuanaklogo.c2311a5a5a6f71794fe4.png",
     "static/media/vaccinelogo.png": "/Clinique.github.io/static/media/vaccinelogo.745475134cca9b382563.png",
@@ -20,15 +19,10 @@
     "static/media/poligigilogo.png": "/Clinique.github.io/static/media/poligigilogo.29546a6b792332ed6f69.png",
     "static/media/homecarelogo.png": "/Clinique.github.io/static/media/homecarelogo.e66b7cf655a700e7964b.png",
     "static/media/lablogo.png": "/Clinique.github.io/static/media/lablogo.bacc7b157c7e81a9c37d.png",
-    "index.html": "/Clinique.github.io/index.html",
-    "main.662a7aef.css.map": "/Clinique.github.io/static/css/main.662a7aef.css.map",
-    "main.3c015306.js.map": "/Clinique.github.io/static/js/main.3c015306.js.map",
-    "498.ca6f2fe0.chunk.js.map": "/Clinique.github.io/static/js/498.ca6f2fe0.chunk.js.map",
-    "703.990bb0b6.chunk.js.map": "/Clinique.github.io/static/js/703.990bb0b6.chunk.js.map",
-    "198.2ad82db1.chunk.js.map": "/Clinique.github.io/static/js/198.2ad82db1.chunk.js.map"
+    "index.html": "/Clinique.github.io/index.html"
   },
   "entrypoints": [
-    "static/css/main.662a7aef.css",
-    "static/js/main.3c015306.js"
+    "static/css/main.f2de8f9e.css",
+    "static/js/main.dcbe8c65.js"
   ]
 }
